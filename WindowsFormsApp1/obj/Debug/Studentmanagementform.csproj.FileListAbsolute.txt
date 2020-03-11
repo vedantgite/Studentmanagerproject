@@ -1,0 +1,10 @@
+C:\Users\vedan\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vedan\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vedan\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vedan\source\repos\WindowsFormsApp1\obj\Debug\Studentmanagementform.csprojAssemblyReference.cache
+C:\Users\vedan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\vedan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vedan\source\repos\WindowsFormsApp1\obj\Debug\Studentmanagementform.csproj.GenerateResource.cache
+C:\Users\vedan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vedan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vedan\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
